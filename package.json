@@ -1,5 +1,5 @@
 {
-  "name": "rest-api-playlist",
+  "name": "the rest-api-playlist",
   "version": "1.0.0",
   "description": "Course files for the REST API tutorial series on The Net Ninja Youtube channel",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/iamshaunjp/rest-api-playlist.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marcus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iamshaunjp/rest-api-playlist/issues"
